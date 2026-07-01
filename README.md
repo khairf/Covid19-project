@@ -52,7 +52,11 @@ Both datasets were imported into SQL Server using the SQL Server Import Wizard.
 - Create a SQL view for downstream visualization  
 
 ---
-
+## How to Run
+**1. Clone the repository
+**2. Import both Excel files into SQL Server
+**3. Run the SQL Scripts in the /sql folder
+**4. Explore the results and modify queries as needed
 ## SQL Analysis
 
 ### **1. Basic Data Exploration**
