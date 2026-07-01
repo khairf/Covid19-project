@@ -58,7 +58,7 @@ Both datasets were imported into SQL Server using the SQL Server Import Wizard.
 **3. Run the SQL Scripts in the /sql folder
 **4. Explore the results and modify queries as needed
 ## SQL Analysis
-
+---
 ### **1. Basic Data Exploration**
 ```sql
 SELECT * 
