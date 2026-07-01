@@ -1,5 +1,5 @@
 # COVID‑19 Data Exploration & SQL Analysis  
-![Project Banner](covid-cell logo.png)
+![Project Banner](covid-cell logo.jpg)
 
 ## Overview
 This project performs an in‑depth analysis of global COVID‑19 data using SQL Server. Two Excel datasets (COVID deaths and COVID vaccinations) were imported into SQL Server, cleaned, joined, and analyzed using SQL queries. The goal is to understand infection trends, mortality rates, vaccination progress, and continent‑level patterns.
