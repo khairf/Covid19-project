@@ -71,7 +71,7 @@ WHERE continent IS NOT NULL
 ORDER BY 1,2;
 
 ```
-###Infection and Mortality Analysis
+### Infection and Mortality Analysis
 ### **3. Likelihood of dying if infected in case of the states**
 ```sql
 SELECT Location, date, total_cases, total_deaths,
